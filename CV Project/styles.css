@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    padding: 20px;
+}
+
+.header img {
+    border-radius: 50%;
+    margin-right: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+.intro {
+    line-height: 1;
+    text-align: left;
+}
+
+.contact-info {
+    margin-top: 10px;
+    font-size: 16px;
+    
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.star {
+    color: gold;
+}
+
+.red-heart {
+    color: red;
+}
+
+thead {
+    background-color: darkgray;
+}
+
+.email-icon {
+    color: #1a73e8; 
+}
+
+.location-icon {
+    color: #d32f2f;
+} 
+
